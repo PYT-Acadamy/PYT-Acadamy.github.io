@@ -1,7 +1,7 @@
 ---
 title: PYT-Acadamy geht Online
 author: sergius
-date: 2023-06-15 HH:MM:SS +/-TTTT
+date: 2023-06-15
 categories: [Blog, Acadamy]
 tags: [news]     # TAG names should always be lowercase
 ---
