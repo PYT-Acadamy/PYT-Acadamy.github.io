@@ -1,12 +1,12 @@
 ---
-title: DIY Power-Wall Projekt: Baut mit uns eine 15kWh Power-Wall aus LiPo Akkus!
+title: DIY Power-Wall Projekt
 date: 2023-06-16 12:00:00 +0100
 categories: [Projekte, DIY]
 tags: [diy, power-wall, lipo, gemeinschaftsprojekt]
 author: sergius
 ---
 
-Liebe Technikbegeisterte,
+Baut mit uns eine 15kWh Power-Wall aus LiPo Akkus!
 
 in unserer Community diskutieren wir immer wieder über spannende und herausfordernde Projekte. Eines, das uns besonders im Kopf geblieben ist, ist der Bau einer 15kWh Power-Wall aus LiPo Akkus. Das Konzept ist einfach genial und die Kosten sind unschlagbar günstig, insbesondere wenn wir die Komponenten gemeinschaftlich direkt aus China beziehen.
 
