@@ -6,8 +6,7 @@ tags: [jugend, technik, gemeinschaft]
 author: sergius
 ---
 
-##
-Hallo Junior Gruppe
+## Ziele
 
 # Wesentliche Fähigkeiten und Ressourcen für die IT-Zukunft
 
