@@ -1,7 +1,7 @@
 ---
 title: Grundlagenvortrag Passwortmanager
 author: sergius
-date: 2023-06-17 11:33:00 +0800
+date: 2023-06-16 11:33:00 +0800
 categories: [Tutorial, Junior]
 tags: [Cyber-security]
 # pin: true
