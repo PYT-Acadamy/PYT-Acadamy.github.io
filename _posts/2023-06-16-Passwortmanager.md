@@ -16,7 +16,7 @@ image:
 
 ## Video
 
-{% include embed/media.ccc.de/v/ccchh_extras-1004-passwortmanager#t=600 %}
+{% include embed/youtube.html id='YwbE2iLmAT0' %}
 
 ## Headings
 
