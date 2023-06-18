@@ -10,6 +10,7 @@ author: sergius
 
 # Wesentliche Fähigkeiten und Ressourcen für die IT-Zukunft
 
+
 Hier sind einige wesentliche Fähigkeiten und Ressourcen, die hilfreich sein könnten:
 
 ## Fähigkeiten
