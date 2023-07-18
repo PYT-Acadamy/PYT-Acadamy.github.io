@@ -12,20 +12,29 @@ author: david
 Wir haben die Absicht, einen Cloud-Speicher für unseren Verein einzurichten. Angesichts unserer Anforderungen und Nutzungsvolumens, haben wir vorläufig eine Speichergröße von 250 bis 500GB ins Auge gefasst. Details zur Umsetzung müssen noch geklärt werden.
 
 2. E-Mail-Server
-Wir planen, einen E-Mail-Server für unseren Verein aufzusetzen. Die Einzelheiten dazu wurden während des Gesprächs nicht weiter ausgeführt und bedürfen weiterer Diskussion und Planung.
+Wir planen, einen E-Mail-Server für unseren Verein aufzusetzen. Die Einzelheiten dazu wurden während des Gesprächs nicht weiter ausgeführt und bedürfen weiterer Recherche und Planung.
 
 3. Passwortmanagement
 Wir haben die Idee eines Passwortmanagement-Systems in Betracht gezogen. Allerdings sind die Details zu dieser Anwendung noch unklar und müssen noch erörtert werden.
 
 
-## Zeitrahmen
-Wir haben einen Zeitrahmen von etwa 3 Monaten zur Einrichtung und Inbetriebnahme des Servers anvisiert. Wir sind eine kleine Gruppe von vier Personen und wollen den Server zuerst nur für uns nutzen. Wenn der Betrieb stabil ist, beabsichtigen wir, unsere Dienste auch in Paraguay anzubieten.
+## Status
+Wir sind derzeit dabei, verschiedene Cloud-Speicher-Softwarelösungen zu überprüfen. Nachdem wir unsere Anforderungen analysiert haben, haben wir vier vielversprechende Optionen ins Auge gefasst: ownCloud, Nextcloud, Pydio und Seafile. Wir testen und bewerten diese Plattformen, um ihre Sicherheit, Datenschutzfunktionen und Leistung zu prüfen. Unser Fokus liegt darauf, die beste Lösung für unsere Bedürfnisse zu finden.
 
 ## Ziel
 Unser Hauptziel ist es nicht, Gewinn zu erzielen, sondern das Projekt als Lern- und Übungsmöglichkeit zu sehen. Wir möchten jedoch auch unsere Dienste einer kleinen Gruppe anbieten und so unsere Vereinskasse für weitere Projekte und Investitionen aufbessern.
 
+### Wie entscheiden wir uns für unser software?
+Um unsere Softwareauswahl zu treffen, haben wir einen strukturierten Entscheidungsprozess durchlaufen, der verschiedene Aspekte berücksichtigt hat:
+
+1. **Anforderungen und Ziele:** Zunächst haben wir unsere spezifischen Anforderungen und Ziele definiert. Wir haben analysiert, welche Funktionen und Eigenschaften wir von der Software erwarten, um unsere geschäftlichen Bedürfnisse zu erfüllen und unsere Ziele zu erreichen.
+
+2. **Marktrecherche:** Wir haben umfangreiche Marktrecherchen durchgeführt, um verschiedene Softwarelösungen zu identifizieren, die potenziell unseren Anforderungen entsprechen könnten. Wir haben sowohl etablierte Anbieter als auch aufstrebende Unternehmen in Betracht gezogen.
+
+3. **Auswahlkriterien:** Basierend auf unseren Anforderungen haben wir klare Auswahlkriterien festgelegt. Diese Kriterien umfassten Aspekte wie Funktionalität, Skalierbarkeit, Benutzerfreundlichkeit und vor allem die Sicherheit und die Privatsphäre unserer Benutzer.
+
 ## Besonderheiten:
-Wir haben darüber diskutiert, uns durch bestimmte Alleinstellungsmerkmale von großen Unternehmen abzuheben. Diese sind: hohe Sicherheit, persönlicher Kontakt und exzellenter Service.
+Wir haben darüber beraten, uns durch bestimmte Alleinstellungsmerkmale von großen Unternehmen abzuheben. Diese sind: hohe Sicherheit, persönlicher Kontakt und exzellenter Service.
 
 ## Cloud
 
