@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/favicons/mstile-120x120.png
+  path: /assets/img/favicons/apple-touch-icon-120x120.png
   lqip:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
