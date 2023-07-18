@@ -31,7 +31,7 @@ Wir haben darüber diskutiert, uns durch bestimmte Alleinstellungsmerkmale von g
 
 Die Auswahl der richtigen Cloud-Speicher-Software für einen Server kann eine herausfordernde Aufgabe sein. Wir haben uns verschiedene Optionen angesehen und möchten in diesem Artikel ownCloud, Nextcloud, Pydio und Seafile vergleichen. Hier sind unsere Notizen zu den jeweiligen Lösungen:
 
-### ownCloud 
+### ownCloud
 ownCloud scheint auf den ersten Blick eine gute Wahl zu sein. Es handelt sich um eine Open-Source-Software mit einer aktiven Community, die kontinuierlich daran arbeitet. Ein großer Pluspunkt ist, dass ownCloud den Datenschutzvorschriften, wie der GDPR (General Data Protection Regulation) und der LGPD (Lei Geral de Proteção de Dados), entspricht. Die Software bietet auch die Möglichkeit zur Aktivierung von 2FA (Two-Factor Authentication) und MFA (Multi-Factor Authentication) für zusätzliche Sicherheit. Allerdings könnte ownCloud mehr Informationen über die Funktionalitäten ihrer Software bereitstellen, da ihre Werbung hauptsächlich oberflächlich ist und nicht ins Detail geht.
 
 ### Nextcloud
@@ -47,8 +47,8 @@ Zuletzt haben wir uns Seafile angesehen. Diese Lösung ähnelt Pydio, bietet jed
 Bei der Auswahl einer Cloud-Speicher-Software für Ihren Server ist es wichtig, Ihre Anforderungen an Sicherheit, Funktionalität und Kompatibilität mit verschiedenen Geräten zu berücksichtigen. OwnCloud und Nextcloud sind solide Optionen mit einer aktiven Community, während Pydio mit einem Schwerpunkt auf Sicherheit und Einblick in die Funktionsweise hervorsticht. Seafile bietet zusätzliche Möglichkeiten beim Download und unterstützt eine Vielzahl von Geräten.
 
 | Plattform    | ownCloud                                       | Nextcloud                                      | Seafile                                         | Pydio                                         |
-|--------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|-----------------------------------------------|
-| Open Source? | Ja                                             | Ja                                             | Ja                                              | Ja                                            |
+|--------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| Open Source? | Ja | Ja | Ja | Ja |
 | Lizenz       | AGPLv3                                         | AGPLv3                                         | AGPLv3                                          | AGPLv3                                        |
 | Funktionalität| Grundlegende Funktionen für Dateisynchronisierung und -freigabe. Erweiterbar mit Plugins. | Umfangreiche Funktionen einschließlich Dateisynchronisierung, Kalender, Kontakte, Aufgabenverwaltung, Echtzeit-Zusammenarbeit und mehr. | Effiziente Dateisynchronisierung, Versionierung, Integration mit externen Speicheranbietern | Benutzerfreundliche Oberfläche, Dateiverschlüsselung, Integration mit externen Speicheranbietern |
 | Serveranforderungen | Moderat                                     | Moderat                                        | Moderat                                         | Moderat                                       |
