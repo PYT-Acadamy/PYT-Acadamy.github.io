@@ -1,7 +1,7 @@
 ---
 title: Texte und Typographiebeispiele
 author: sergius
-date: 2023-07-19 11:33:00 +0800
+date: 2023-07-16 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typographie]
 pin: true
