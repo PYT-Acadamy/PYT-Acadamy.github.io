@@ -51,9 +51,5 @@ Bei der Auswahl einer Cloud-Speicher-Software für Ihren Server ist es wichtig, 
 | Open Source? | Ja | Ja | Ja | Ja |
 | Lizenz | AGPLv3 | AGPLv3 | AGPLv3 | AGPLv3 |
 | Funktionalität| Grundlegende Funktionen für Dateisynchronisierung und -freigabe. Erweiterbar mit Plugins. | Umfangreiche Funktionen einschließlich Dateisynchronisierung, Kalender, Kontakte, Aufgabenverwaltung, Echtzeit-Zusammenarbeit und mehr. | Effiziente Dateisynchronisierung, Versionierung, Integration mit externen Speicheranbietern | Benutzerfreundliche Oberfläche, Dateiverschlüsselung, Integration mit externen Speicheranbietern |
-| Serveranforderungen | Moderat | Moderat | Moderat | Moderat |
-| Benutzerfreundlichkeit | Einfache Einrichtung und Verwaltung | Benutzerfreundliche Oberfläche, intuitive Bedienung | Benutzerfreundliche Oberfläche | Benutzerfreundliche Oberfläche |
 | Community | Aktive und engagierte Community | Aktive und engagierte Community | Aktive Community | Aktive Community |
-| Enterprise-Version | Verfügbar (kostenpflichtig) | Verfügbar (kostenpflichtig) | Verfügbar (kostenpflichtig) | Verfügbar (kostenpflichtig) |
-| Support | Community-Support, kostenpflichtiger Support verfügbar in der Enterprise Edition | Community-Support, kostenpflichtiger Support verfügbar in der Enterprise Edition | Community-Support, kostenpflichtiger Support verfügbar | Community-Support, kostenpflichtiger Support verfügbar |
-| Verschlüsselung | Server-seitige Verschlüsselung in der Enterprise Edition | Server-seitige Verschlüsselung in der Enterprise Edition | Datei-basierte Verschlüsselung | Datei-basierte Verschlüsselung |
+| Verschlüsselung | Server-seitig | Server-seitig | Datei-basiert | Datei-basiert |
