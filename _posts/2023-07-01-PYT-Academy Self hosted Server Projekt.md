@@ -1,5 +1,5 @@
 ---
-title: PYT-Acadamy Self hosted Server Projekt
+title: PYT-Academy Self hosted Server Projekt
 date: 2023-07-18 12:00:00 +0100
 categories: [Server, Projekt]
 tags: [open-source, selfhoted, server]
@@ -24,10 +24,10 @@ Wir haben einen Zeitrahmen von etwa 3 Monaten zur Einrichtung und Inbetriebnahme
 ## Ziel
 Unser Hauptziel ist es nicht, Gewinn zu erzielen, sondern das Projekt als Lern- und Übungsmöglichkeit zu sehen. Wir möchten jedoch auch unsere Dienste einer kleinen Gruppe anbieten und so unsere Vereinskasse für weitere Projekte und Investitionen aufbessern.
 
-## Alleinstellungsmerkmale:
+## Besonderheiten:
 Wir haben darüber diskutiert, uns durch bestimmte Alleinstellungsmerkmale von großen Unternehmen abzuheben. Diese sind: hohe Sicherheit, persönlicher Kontakt und exzellenter Service.
 
-## Cloud-Speicher Software
+## Cloud
 
 Die Auswahl der richtigen Cloud-Speicher-Software für einen Server kann eine herausfordernde Aufgabe sein. Wir haben uns verschiedene Optionen angesehen und möchten in diesem Artikel ownCloud, Nextcloud, Pydio und Seafile vergleichen. Hier sind unsere Notizen zu den jeweiligen Lösungen:
 
@@ -47,9 +47,8 @@ Zuletzt haben wir uns Seafile angesehen. Diese Lösung ähnelt Pydio, bietet jed
 Bei der Auswahl einer Cloud-Speicher-Software für Ihren Server ist es wichtig, Ihre Anforderungen an Sicherheit, Funktionalität und Kompatibilität mit verschiedenen Geräten zu berücksichtigen. OwnCloud und Nextcloud sind solide Optionen mit einer aktiven Community, während Pydio mit einem Schwerpunkt auf Sicherheit und Einblick in die Funktionsweise hervorsticht. Seafile bietet zusätzliche Möglichkeiten beim Download und unterstützt eine Vielzahl von Geräten.
 
 | Plattform | ownCloud | Nextcloud | Seafile | Pydio |
-|--------------|----------------------------|----------------------------|----------------------------|----------------------------|
+|:--------------|:----------------------------|:----------------------------|:----------------------------|----------------------------:|
 | Open Source? | Ja | Ja | Ja | Ja |
 | Lizenz | AGPLv3 | AGPLv3 | AGPLv3 | AGPLv3 |
-| Funktionalität| Grundlegende Funktionen für Dateisynchronisierung und -freigabe. Erweiterbar mit Plugins. | Umfangreiche Funktionen einschließlich Dateisynchronisierung, Kalender, Kontakte, Aufgabenverwaltung, Echtzeit-Zusammenarbeit und mehr. | Effiziente Dateisynchronisierung, Versionierung, Integration mit externen Speicheranbietern | Benutzerfreundliche Oberfläche, Dateiverschlüsselung, Integration mit externen Speicheranbietern |
 | Community | Aktive und engagierte Community | Aktive und engagierte Community | Aktive Community | Aktive Community |
 | Verschlüsselung | Server-seitig | Server-seitig | Datei-basiert | Datei-basiert |
