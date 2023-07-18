@@ -1,14 +1,14 @@
 ---
-title: Aufbau und Betrieb eines Servers für die PYT-Acadamy
-date: 2023-07-01 14:00:00 +0100
-categories: [Acadamy, Ziele]
-tags: [jugend, technik, gemeinschaft]
+title: PYT-Acadamy Self hosted Server Projekt
+date: 2023-07-18 12:00:00 +0100
+categories: [Server, Projekt]
+tags: [open-source, selfhoted, server]
 author: david
 ---
 
 # Gesprächpunkte
 
-1. Cloud-Speicher
+1. [Cloud-Speicher](#cloud-speicher-software)
 Wir haben die Absicht, einen Cloud-Speicher für unseren Verein einzurichten. Angesichts unserer Anforderungen und Nutzungsvolumens, haben wir vorläufig eine Speichergröße von 250 bis 500GB ins Auge gefasst. Details zur Umsetzung müssen noch geklärt werden.
 
 2. E-Mail-Server
@@ -27,12 +27,34 @@ Unser Hauptziel ist es nicht, Gewinn zu erzielen, sondern das Projekt als Lern- 
 ## Alleinstellungsmerkmale:
 Wir haben darüber diskutiert, uns durch bestimmte Alleinstellungsmerkmale von großen Unternehmen abzuheben. Diese sind: hohe Sicherheit, persönlicher Kontakt und exzellenter Service.
 
-# Nächste Schritte:
+## Cloud-Speicher Software
 
-1. Detailliertere Planung und Umsetzung der Cloud-Speicherlösung.
+Die Auswahl der richtigen Cloud-Speicher-Software für einen Server kann eine herausfordernde Aufgabe sein. Wir haben uns verschiedene Optionen angesehen und möchten in diesem Artikel ownCloud, Nextcloud, Pydio und Seafile vergleichen. Hier sind unsere Notizen zu den jeweiligen Lösungen:
 
-2. Weiterführende Diskussion und Planung des E-Mail-Servers.
+### ownCloud 
+ownCloud scheint auf den ersten Blick eine gute Wahl zu sein. Es handelt sich um eine Open-Source-Software mit einer aktiven Community, die kontinuierlich daran arbeitet. Ein großer Pluspunkt ist, dass ownCloud den Datenschutzvorschriften, wie der GDPR (General Data Protection Regulation) und der LGPD (Lei Geral de Proteção de Dados), entspricht. Die Software bietet auch die Möglichkeit zur Aktivierung von 2FA (Two-Factor Authentication) und MFA (Multi-Factor Authentication) für zusätzliche Sicherheit. Allerdings könnte ownCloud mehr Informationen über die Funktionalitäten ihrer Software bereitstellen, da ihre Werbung hauptsächlich oberflächlich ist und nicht ins Detail geht.
 
-3. Klärung der Einzelheiten für das Passwortmanagement-System.
+### Nextcloud
+Nextcloud ist ähnlich wie ownCloud, da es ebenfalls als Open-Source-Lösung mit einer aktiven Community entwickelt wird. Nextcloud wirbt mit einem ansprechenden Design und einer Vielzahl von Features. Jedoch liegt uns die Sicherheit besonders am Herzen, und in dieser Hinsicht bietet Nextcloud nicht viel Neues im Vergleich zu ownCloud.
 
-4. Festlegung der spezifischen Ziele und des Business-Plans für unser Angebot in Paraguay.
+### Pydio
+Pydio hebt sich von den vorherigen Lösungen ab, indem es bereits auf den ersten Blick mit seiner Sicherheit, Skalierbarkeit, Open-Source-Natur und den Self-Hosting-Möglichkeiten wirbt. Pydio gibt uns außerdem detailliertere Einblicke in die Funktionsweise ihrer Software. Auf ihrer Webseite konnten wir feststellen, dass Pydio eine breite Palette von Geräten unterstützt, darunter Windows, MacOS, Linux, Android, iPads und iPhones. Die Sicherheit hat für Pydio einen hohen Stellenwert.
+
+### Seafile
+Zuletzt haben wir uns Seafile angesehen. Diese Lösung ähnelt Pydio, bietet jedoch zusätzliche Möglichkeiten beim Download. Seafile unterstützt auch ältere Geräte wie Windows 7 und ältere Macs. Interessanterweise kann Seafile auch vollständig über die Kommandozeile unter Linux gesteuert werden, falls dies gewünscht ist. Für Android-Nutzer gibt es die Möglichkeit, Seafile sowohl aus dem Google Play Store als auch von F-Droid herunterzuladen. Selbstverständlich werden auch iPad- und iPhone-Geräte unterstützt.
+
+### Abschließende Gedanken
+Bei der Auswahl einer Cloud-Speicher-Software für Ihren Server ist es wichtig, Ihre Anforderungen an Sicherheit, Funktionalität und Kompatibilität mit verschiedenen Geräten zu berücksichtigen. OwnCloud und Nextcloud sind solide Optionen mit einer aktiven Community, während Pydio mit einem Schwerpunkt auf Sicherheit und Einblick in die Funktionsweise hervorsticht. Seafile bietet zusätzliche Möglichkeiten beim Download und unterstützt eine Vielzahl von Geräten.
+
+Hier ist die erweiterte Tabelle, die verschiedene Cloud-Speicher-Plattformen vergleicht:
+| Plattform    | ownCloud                                       | Nextcloud                                      | Seafile                                         | Pydio                                         |
+|--------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|-----------------------------------------------|
+| Open Source? | Ja                                             | Ja                                             | Ja                                              | Ja                                            |
+| Lizenz       | AGPLv3                                         | AGPLv3                                         | AGPLv3                                          | AGPLv3                                        |
+| Funktionalität| Grundlegende Funktionen für Dateisynchronisierung und -freigabe. Erweiterbar mit Plugins. | Umfangreiche Funktionen einschließlich Dateisynchronisierung, Kalender, Kontakte, Aufgabenverwaltung, Echtzeit-Zusammenarbeit und mehr. | Effiziente Dateisynchronisierung, Versionierung, Integration mit externen Speicheranbietern | Benutzerfreundliche Oberfläche, Dateiverschlüsselung, Integration mit externen Speicheranbietern |
+| Serveranforderungen | Moderat                                     | Moderat                                        | Moderat                                         | Moderat                                       |
+| Benutzerfreundlichkeit | Einfache Einrichtung und Verwaltung        | Benutzerfreundliche Oberfläche, intuitive Bedienung | Benutzerfreundliche Oberfläche              | Benutzerfreundliche Oberfläche                |
+| Community    | Aktive und engagierte Community                  | Aktive und engagierte Community                 | Aktive Community                               | Aktive Community                              |
+| Enterprise-Version | Verfügbar (kostenpflichtig)                 | Verfügbar (kostenpflichtig)                    | Verfügbar (kostenpflichtig)                      | Verfügbar (kostenpflichtig)                    |
+| Support      | Community-Support, kostenpflichtiger Support verfügbar in der Enterprise Edition | Community-Support, kostenpflichtiger Support verfügbar in der Enterprise Edition | Community-Support, kostenpflichtiger Support verfügbar | Community-Support, kostenpflichtiger Support verfügbar |
+| Verschlüsselung | Server-seitige Verschlüsselung in der Enterprise Edition | Server-seitige Verschlüsselung in der Enterprise Edition | Datei-basierte Verschlüsselung | Datei-basierte Verschlüsselung |
