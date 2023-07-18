@@ -52,4 +52,3 @@ Bei der Auswahl einer Cloud-Speicher-Software für Ihren Server ist es wichtig, 
 | Lizenz | AGPLv3 | AGPLv3 | AGPLv3 | AGPLv3 |
 | Community | Aktive und engagierte<br>Community | Aktive und engagierte<br>Community | Aktive Community | Aktive Community |
 | Verschlüsselung | Server-seitig | Server-seitig | Datei-basiert | Datei-basiert |
-| Funktionalität | Grundlegende Funktionen für Dateisynchronisierung und -freigabe.<br>Erweiterbar mit Plugins. |
