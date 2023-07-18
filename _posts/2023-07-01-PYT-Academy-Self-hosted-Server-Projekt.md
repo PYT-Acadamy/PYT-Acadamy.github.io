@@ -47,7 +47,7 @@ Zuletzt haben wir uns Seafile angesehen. Diese Lösung ähnelt Pydio, bietet jed
 Bei der Auswahl einer Cloud-Speicher-Software für Ihren Server ist es wichtig, Ihre Anforderungen an Sicherheit, Funktionalität und Kompatibilität mit verschiedenen Geräten zu berücksichtigen. OwnCloud und Nextcloud sind solide Optionen mit einer aktiven Community, während Pydio mit einem Schwerpunkt auf Sicherheit und Einblick in die Funktionsweise hervorsticht. Seafile bietet zusätzliche Möglichkeiten beim Download und unterstützt eine Vielzahl von Geräten.
 
 | Plattform | ownCloud | Nextcloud | Seafile | Pydio |
-|:--------------|:----------------------------|:----------------------------|:----------------------------|----------------------------:|
+|:--------------|:----------------------------|:----------------------------|:----------------------------|:----------------------------|
 | Open Source? | Ja | Ja | Ja | Ja |
 | Lizenz | AGPLv3 | AGPLv3 | AGPLv3 | AGPLv3 |
 | Community | Aktive und engagierte Community | Aktive und engagierte Community | Aktive Community | Aktive Community |
