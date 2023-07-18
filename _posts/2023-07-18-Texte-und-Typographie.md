@@ -38,18 +38,18 @@ Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas int
 
 ### Unordered list
 
-- Chapter
-  + Section
+- Kapitel
+  + Sektion
     * Paragraph
 
 ### ToDo list
 
-- [ ] Job
-  + [x] Step 1
-  + [x] Step 2
-  + [ ] Step 3
+- [ ] Aufgabe
+  + [x] Schritt 1
+  + [x] Schritt 2
+  + [ ] Schritt 3
 
-### Description list
+### Beschreibende Listendarstellung
 
 Sun
 : the star around which the earth orbits
@@ -57,9 +57,9 @@ Sun
 Moon
 : the natural satellite of the earth, visible by reflected light from the sun
 
-## Block Quote
+## Block-Zitat
 
-> This line shows the _block quote_.
+> Diese Zeile zeigt den _Block-Zitat_.
 
 ## Prompts
 
@@ -75,7 +75,7 @@ Moon
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
 
-## Tables
+## Tabelle
 
 | Company                      | Contact          | Country |
 |:-----------------------------|:-----------------|--------:|
@@ -83,23 +83,23 @@ Moon
 | Island Trading               | Helen Bennett    | UK      |
 | Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
 
-## Links
+## Link's
 
 <https://pyt-acadamy.github.io/>
 
-## Footnote
+## Fußnote
 
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
+Klicke auf den Haken, um die Fußnote zu finden[^footnote], und hier ist die zweite Fußnote[^fn-nth-2].
 
-## Inline code
+## Inline-Code
 
-This is an example of `Inline Code`.
+Dies ist ein Beispiel für `Inline Code`.
 
-## Filepath
+## Dateipfad
 
-Here is the `/path/to/the/file.extend`{: .filepath}.
+Hier ist der `/pfad/zu/der/Dateiname.endung`{: .filepath}.
 
-## Code blocks
+## Code Blöcke
 
 ### Common
 
