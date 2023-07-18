@@ -8,7 +8,7 @@ author: david
 
 # Gesprächpunkte
 
-1. [Cloud-Speicher](#cloud-speicher-software)
+1. [Cloud-Speicher](#cloud)
 Wir haben die Absicht, einen Cloud-Speicher für unseren Verein einzurichten. Angesichts unserer Anforderungen und Nutzungsvolumens, haben wir vorläufig eine Speichergröße von 250 bis 500GB ins Auge gefasst. Details zur Umsetzung müssen noch geklärt werden.
 
 2. E-Mail-Server
