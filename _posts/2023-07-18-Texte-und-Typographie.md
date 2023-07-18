@@ -1,14 +1,14 @@
 ---
 title: Texte und Typographiebeispiele
 author: sergius
-date: 2023-07-16 11:33:00 +0800
+date: 2023-07-17 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typographie]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/favicons/mstile-150x150.png
+  path: /assets/img/favicons/mstile-120x120.png
   lqip:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
