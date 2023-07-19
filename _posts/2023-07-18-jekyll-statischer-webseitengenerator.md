@@ -1,13 +1,11 @@
-# header bereich
 ---
 title: Jekyll, Statischer Webseitengenerator
-author: sergius, #sergius und david sind aktuel verfügbare Autoren, weitere Autoren in "data/authors.yml" ergänzen
-date: 2023-07-17 11:33:00 +0800 #Datumformat entscheidet über die Sortierreinfolge.
-categories: [Community, Webdevelopment] #Kategorieauswahl laut Webseite bestimmen.
-tags: [webdevelopment, homepage, jekyll, github] #mindestens 3 Tags aus jeweils einzelnen Wörtern verfassen
-pin: true #ist zum Anpinnen des Artikels auf den Oberen Rängen. mehrere Angepinnte Artikel werden nach Datum sortiert
-math: true #nur für Matematische Formeln im Artikel benötigt
-mermaid: true #nur für Mermaid diagramme benötigt
+author: sergius,
+date: 2023-07-17 11:33:00 +0800 
+categories: [Community, Webdevelopment]
+tags: [webdevelopment, homepage, jekyll, github]
+pin: true
+mermaid: true
 image:
   path: /assets/img/devices-mockup.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
