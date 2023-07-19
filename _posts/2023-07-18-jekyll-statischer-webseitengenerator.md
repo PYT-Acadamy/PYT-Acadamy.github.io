@@ -53,14 +53,15 @@ Ein weiterer großer Vorteil von Jekyll ist die Unterstützung von Themes. Theme
 
 Hier sind einige Ressourcen, wo Sie Jekyll Themes finden können:
 
-- [Jamstackthemes](https://jamstackthemes.dev/ssg/jekyll/)
-- [Jekyllthemes.org](http://jekyllthemes.org/)
-- [Jekyllthemes.io](https://jekyllthemes.io/)
-- [GitHub Jekyll Themes](https://github.com/topics/jekyll-theme)
+- [Jamstackthemes](https://jamstackthemes.dev/ssg/jekyll/){:target="_blank"}
+- [Jekyllthemes.org](http://jekyllthemes.org/){:target="_blank"}
+- [Jekyllthemes.io](https://jekyllthemes.io/){:target="_blank"}
+- [GitHub Jekyll Themes](https://github.com/topics/jekyll-theme){:target="_blank"}
 
 Erleben Sie die Stärke statischer Webseiten und die Flexibilität von Jekyll und erstellen Sie Ihre perfekte Webseite. Wenn Sie Unterstützung benötigen oder Fragen haben, zögern Sie nicht, uns zu kontaktieren. Wir sind hier, um Ihnen zu helfen und Sie auf Ihrem Weg zur Erstellung Ihrer idealen Webseite zu begleiten.
 
 [Schreib mir auf WhatsApp](https://wa.me/595974276892)
+
 [Schreib mir auf Telegram](tg://resolve?domain=@Sergius_M)
 
 ## Fazit
