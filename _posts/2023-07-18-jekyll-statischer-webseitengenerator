@@ -2,7 +2,7 @@
 ---
 title: Jekyll, Statischer Webseitengenerator
 author: sergius, #sergius und david sind aktuel verfügbare Autoren, weitere Autoren in "data/authors.yml" ergänzen
-date: 2023-07-18 11:33:00 +0800 #Datumformat entscheidet über die Sortierreinfolge.
+date: 2023-07-17 11:33:00 +0800 #Datumformat entscheidet über die Sortierreinfolge.
 categories: [Community, Webdevelopment] #Kategorieauswahl laut Webseite bestimmen.
 tags: [webdevelopment, homepage, jekyll, github] #mindestens 3 Tags aus jeweils einzelnen Wörtern verfassen
 pin: true #ist zum Anpinnen des Artikels auf den Oberen Rängen. mehrere Angepinnte Artikel werden nach Datum sortiert
