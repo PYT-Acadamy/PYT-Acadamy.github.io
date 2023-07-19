@@ -25,13 +25,7 @@ Wir sind derzeit dabei, verschiedene Cloud-Speicher-Softwarelösungen zu überpr
 Unser Hauptziel ist es nicht, Gewinn zu erzielen, sondern das Projekt als Lern- und Übungsmöglichkeit zu sehen. Wir möchten jedoch auch unsere Dienste einer kleinen Gruppe anbieten und so unsere Vereinskasse für weitere Projekte und Investitionen aufbessern.
 
 ### Wie entscheiden wir uns für unser software?
-Um unsere Softwareauswahl zu treffen, haben wir einen strukturierten Entscheidungsprozess durchlaufen, der verschiedene Aspekte berücksichtigt hat:
-
-1. **Anforderungen und Ziele:** Zunächst haben wir unsere spezifischen Anforderungen und Ziele definiert. Wir haben analysiert, welche Funktionen und Eigenschaften wir von der Software erwarten, um unsere geschäftlichen Bedürfnisse zu erfüllen und unsere Ziele zu erreichen.
-
-2. **Marktrecherche:** Wir haben umfangreiche Marktrecherchen durchgeführt, um verschiedene Softwarelösungen zu identifizieren, die potenziell unseren Anforderungen entsprechen könnten. Wir haben sowohl etablierte Anbieter als auch aufstrebende Unternehmen in Betracht gezogen.
-
-3. **Auswahlkriterien:** Basierend auf unseren Anforderungen haben wir klare Auswahlkriterien festgelegt. Diese Kriterien umfassten Aspekte wie Funktionalität, Skalierbarkeit, Benutzerfreundlichkeit und vor allem die Sicherheit und die Privatsphäre unserer Benutzer.
+Bei der Evaluierung von Softwarelösungen liegt unser besonderer Fokus auf Sicherheit, Datensicherheit und der Einhaltung von *Datenschutzrichtlinien*. Wir setzen auf *Open-Source-Software*, um Transparenz, Flexibilität und die Unterstützung einer engagierten Community sicherzustellen. Neben der *Kompatibilität mit verschiedenen Betriebssystemen* bewerten wir *Benutzerfreundlichkeit*, *Skalierbarkeit* und Sicherheitsfunktionen wie *Verschlüsselung*, *Zugriffskontrolle* sowie die Implementierung von *2FA (Two-Factor Authentication) und MFA (Multi-Factor Authentication)* als zusätzliche Sicherheitsmaßnahmen. Darüber hinaus achten wir darauf, dass die Software den Anforderungen und Vorschriften der *Datenschutzgesetze wie der DSGVO, LGPD, CCRF, HIPAA und CCPA* entspricht. Unsere Zielsetzung ist es, eine umfassende Sicherheitsarchitektur bereitzustellen, die die Vertraulichkeit, Integrität und der Benutzerdaten gewährleistet. Wir suchen nach einer Softwarelösung, die unseren hohen Standards in Bezug auf Sicherheit, Datensicherheit, *2FA* und *MFA* entspricht und den geltenden Datenschutzrichtlinien entspricht.
 
 ## Besonderheiten:
 Wir haben darüber beraten, uns durch bestimmte Alleinstellungsmerkmale von großen Unternehmen abzuheben. Diese sind: hohe Sicherheit, persönlicher Kontakt und exzellenter Service.
