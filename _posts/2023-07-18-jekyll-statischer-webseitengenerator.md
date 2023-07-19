@@ -60,6 +60,9 @@ Hier sind einige Ressourcen, wo Sie Jekyll Themes finden können:
 
 Erleben Sie die Stärke statischer Webseiten und die Flexibilität von Jekyll und erstellen Sie Ihre perfekte Webseite. Wenn Sie Unterstützung benötigen oder Fragen haben, zögern Sie nicht, uns zu kontaktieren. Wir sind hier, um Ihnen zu helfen und Sie auf Ihrem Weg zur Erstellung Ihrer idealen Webseite zu begleiten.
 
+[Schreib mir auf WhatsApp](https://wa.me/595974276892)
+[Schreib mir auf Telegram](tg://resolve?domain=@Sergius_M)
+
 ## Fazit
 
 Jekyll und GitHub bieten eine leistungsstarke und kostenlose Möglichkeit, statische Webseiten zu erstellen und zu hosten. Mit einem minimalen Aufwand können Sie eine schnelle, sichere und zuverlässige Webseite erstellen, die Sie mit der Welt teilen können.
