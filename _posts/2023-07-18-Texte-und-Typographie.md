@@ -4,7 +4,7 @@ author: sergius
 date: 2023-07-17 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typographie]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
