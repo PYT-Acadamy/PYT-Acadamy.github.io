@@ -7,7 +7,7 @@ tags: [webdevelopment, homepage, jekyll, github]
 pin: true
 mermaid: true
 image:
-  path: /assets/img/devices-mockup.png
+  path: /assets/img/JG-logo.png
 ---
 # Erstellung und Hosting statischer Webseiten mit Jekyll und GitHub
 
