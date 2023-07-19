@@ -15,6 +15,8 @@ Willkommen zu diesem Blogbeitrag, in dem wir uns mit der Erstellung und dem Host
 
 ## Was ist Jekyll?
 
+<https://jekyllrb.com/>
+
 ![Desktop View](/assets/img/Jekyll-logo.png){: width="256" height="256" .w-50 .right}
 Jekyll ist ein einfacher, blogorientierter, statischer Seitengenerator. Er nimmt eine Vorlage, die Sie erstellt haben, und füllt sie mit Inhalt aus Ihren Markdown-Dateien, um eine vollständige, statische Webseite zu erstellen. Jekyll ist auch der Motor hinter GitHub Pages, was bedeutet, dass Sie Ihre Jekyll-Webseite kostenlos auf GitHub hosten können.
 
@@ -31,6 +33,8 @@ Erstellen Sie dann ein neues Jekyll-Projekt mit dem Befehl `jekyll new my-awesom
 Jetzt können Sie beginnen, Ihre Webseite zu personalisieren. Alle Ihre Blogposts werden in Markdown geschrieben und im `_posts` Verzeichnis gespeichert. Jekyll wird diese Dateien nehmen und sie in HTML umwandeln, um Ihre Webseite zu erstellen.
 
 ## Wie hoste ich meine Webseite auf GitHub?
+
+<https://github.com/>
 
 ![Desktop View](/assets/img/GitHub-Logo.png){: width="256" height="256" .w-50 .right}
 GitHub bietet ein Feature namens GitHub Pages, das das Hosting statischer Webseiten direkt aus Ihrem GitHub-Repository ermöglicht. Und das Beste daran ist, dass es kostenlos ist!
