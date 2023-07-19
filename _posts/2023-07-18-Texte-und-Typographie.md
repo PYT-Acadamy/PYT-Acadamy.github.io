@@ -2,7 +2,7 @@
 title: Texte und Typographiebeispiele
 author: sergius
 date: 2023-07-17 11:33:00 +0800
-categories: [Blogging, Demo]
+categories: [Projekte, Homepage]
 tags: [typographie]
 math: true
 mermaid: true
