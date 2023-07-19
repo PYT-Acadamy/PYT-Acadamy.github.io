@@ -4,6 +4,7 @@ author: sergius
 date: 2023-07-17 11:33:00 +0800
 categories: [Projekte, Homepage]
 tags: [typographie]
+pin: true
 math: true
 mermaid: true
 image:
