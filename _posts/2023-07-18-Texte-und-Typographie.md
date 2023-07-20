@@ -54,7 +54,8 @@ image:
 
 ### Verschachtelte ToDo Listen
 
-: Verschachtelte ToDo-Listen ermöglichen es uns, unsere Aufgaben in überschaubare Teilaufgaben zu unterteilen und so eine klarere Struktur und Priorisierung zu erreichen. Sie visualisieren den Fortschritt auf mehreren Ebenen und erleichtern die Navigation durch komplexe Projekte oder mehrstufige Aufgaben. Die Fähigkeit, Teilaufgaben abzuhaken, während man auf ein größeres Ziel hinarbeitet, kann zusätzliche Befriedigung bieten und die Motivation weiter steigern.
+> Verschachtelte ToDo-Listen ermöglichen es uns, unsere Aufgaben in überschaubare Teilaufgaben zu unterteilen und so eine klarere Struktur und Priorisierung zu erreichen. Sie visualisieren den Fortschritt auf mehreren Ebenen und erleichtern die Navigation durch komplexe Projekte oder mehrstufige Aufgaben. Die Fähigkeit, Teilaufgaben abzuhaken, während man auf ein größeres Ziel hinarbeitet, kann zusätzliche Befriedigung bieten und die Motivation weiter steigern.
+{: .prompt-tip }
 
 - [ ] Hauptaufgabe
   + [x] Unteraufgabe 1
