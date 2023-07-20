@@ -30,18 +30,20 @@ image:
 ## Listen
 
 : Listen spielen eine wichtige Rolle in der schriftlichen Kommunikation, indem sie Informationen klar, konsistent und leicht verständlich präsentieren. Sie sind besonders nützlich, wenn mehrere Punkte, Merkmale oder Schritte präsentiert werden müssen. Es gibt zwei Haupttypen von Listen: nummerierte Listen und Aufzählungslisten.
-### Ordered list
+### Geordnete liste
 
 : Nummerierte Listen werden verwendet, wenn die Reihenfolge der Punkte wichtig ist, wie bei Schritt-für-Schritt-Anleitungen oder Ranglisten. Sie helfen dem Leser, den Verlauf oder die Priorität der Punkte zu verstehen.
 1. Erstens
 2. Zweitens
 3. Drittens
+
 ### Verschachtelte Liste
 
 : sind eine effektive Methode, um strukturierte oder hierarchische Informationen darzustellen. In einer verschachtelten Liste repräsentiert jede zusätzliche Verschachtelungsebene eine Unterkategorie oder ein Detail der übergeordneten Ebene. Diese Art der Darstellung ist besonders nützlich für Inhaltsverzeichnisse, Outlines oder jede andere Situation, in der Informationen klar und logisch strukturiert werden müssen.
 - Hauptpunkte
   + Unterpunkte
     * Detailpunkte
+
 ### ToDo listen
 
 : dienen als visuelle Erinnerung an das, was noch zu erledigen ist, und geben uns ein Gefühl der Zufriedenheit, wenn wir Aufgaben abhaken können. Sie helfen uns, den Überblick zu behalten und die Prokrastination zu reduzieren, indem sie uns auf unsere Ziele und Verpflichtungen fokussieren.
