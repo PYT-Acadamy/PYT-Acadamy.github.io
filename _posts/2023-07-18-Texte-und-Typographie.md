@@ -139,42 +139,33 @@ Sie können den Dateipfad-Tag verwenden, um den Pfad zu einer Datei oder einem O
 
 Hier ist der `/pfad/zu/der/Dateiname.endung`{: .filepath}.
 
-### Common (allgemeiner Codeblock)
+## Code Blöcke
 
-Der allgemeine Codeblock ist der einfachste Typ von Codeblock. Er hat keine Syntaxhervorhebung und zeigt keine Zeilennummern an. Sie erstellen einen allgemeinen Codeblock, indem Sie den Codeabschnitt in drei umgekehrte Anführungszeichen (\`\`\`) einschließen.
+Codeblöcke sind Abschnitte in Markdown, die zum Hervorheben von Codebeispielen verwendet werden. Sie sind besonders nützlich, wenn Sie Code in einem Textabschnitt einfügen möchten, und sie sorgen dafür, dass der Code ordnungsgemäß formatiert und leicht lesbar ist.
 
-Beispiel:
+### Common
 
-\`\`\`
-Dies ist ein allgemeiner Codeblock, ohne Syntaxhervorhebung und Zeilennummern.
-\`\`\`
+```
+This is a common code snippet, without syntax highlight and line number.
+```
 
-### Spezifische Programmiersprache
+### Spezifische Programiersprache
 
-Sie können auch einen Codeblock erstellen, der speziell für eine bestimmte Programmiersprache formatiert ist. Dazu schließen Sie den Codeabschnitt in drei umgekehrte Anführungszeichen ein und geben die Programmiersprache direkt nach den ersten drei Anführungszeichen an. Dies ermöglicht eine Syntaxhervorhebung und Zeilennummern, die auf die spezifische Programmiersprache abgestimmt sind.
-
-Beispiel:
-
-\`\`\`bash
+```bash
 if [ $? -ne 0 ]; then
-  echo "Der Befehl war nicht erfolgreich.";
-  #tun Sie das Notwendige / exit
+  echo "The command was not successful.";
+  #do the needful / exit
 fi;
-\`\`\`
+```
 
 ### Spezifischer Dateiname
 
-Einige Codeblöcke können auch einen spezifischen Dateinamen enthalten. Dies ist nützlich, wenn Sie möchten, dass der Leser weiß, wo der Code platziert werden sollte oder wo er gefunden werden kann. Sie erstellen diesen Codeblock, indem Sie den Codeabschnitt in drei umgekehrte Anführungszeichen einschließen, die Programmiersprache nach den ersten drei Anführungszeichen angeben und den Dateinamen in einer neuen Zeile nach dem Codeblock, umschlossen von geschwungenen Klammern und vorangestellt mit `: file=`, angeben.
-
-Beispiel:
-
-\`\`\`sass
+```sass
 @import
   "colors/light-typography",
   "colors/dark-typography";
-\`\`\`
+```
 {: file='_sass/jekyll-theme-chirpy.scss'}
-
 
 ## Mathematische darstellung für Formeln
 

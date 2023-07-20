@@ -11,7 +11,7 @@ image:
 ---
 # Erstellung und Hosting statischer Webseiten mit Jekyll und GitHub
 
-Willkommen zu diesem Blogbeitrag, in dem wir uns mit der Erstellung und dem Hosting statischer Webseiten beschäftigen werden. Unsere Werkzeuge dafür sind Jekyll und GitHub, zwei leistungsfähige Plattformen, die Ihnen die Erstellung und Veröffentlichung von Webinhalten erleichtern.
+Willkommen zu diesem Blogbeitrag, in dem wir uns mit der Erstellung und dem Hosting statischer Webseiten auseinandersetzen werden. Unsere Werkzeuge dafür sind nicht nur Jekyll und GitHub, zwei leistungsfähige Plattformen, die Ihnen die Erstellung und Veröffentlichung von Webinhalten erleichtern, sondern auch unser umfangreiches Know-How. Mit unserer Expertise in diesen Werkzeugen sind wir bestens gerüstet, um Sie durch den Prozess zu führen und Ihnen zu helfen, Ihre eigenen Webinhalte zu erstellen und zu hosten.
 
 ## Was ist Jekyll?
 
