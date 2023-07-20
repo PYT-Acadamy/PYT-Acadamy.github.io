@@ -17,7 +17,7 @@ Willkommen zu diesem Blogbeitrag, in dem wir uns mit der Erstellung und dem Host
 
 <https://jekyllrb.com/>
 
-![Desktop View](/assets/img/Jekyll-logo.png){: width="256" height="256" .w-50 .right}
+![Desktop View](/assets/img/Jekyll-logo.png){: width="256" height="256" .w-20 .right}
 Jekyll ist ein einfacher, blogorientierter, statischer Seitengenerator. Er nimmt eine Vorlage, die Sie erstellt haben, und füllt sie mit Inhalt aus Ihren Markdown-Dateien, um eine vollständige, statische Webseite zu erstellen. Jekyll ist auch der Motor hinter GitHub Pages, was bedeutet, dass Sie Ihre Jekyll-Webseite kostenlos auf GitHub hosten können.
 
 ## Warum statische Webseiten?
@@ -36,7 +36,7 @@ Jetzt können Sie beginnen, Ihre Webseite zu personalisieren. Alle Ihre Blogpost
 
 <https://github.com/>
 
-![Desktop View](/assets/img/GitHub-Logo.png){: width="256" height="256" .w-50 .right}
+![Desktop View](/assets/img/GitHub-Logo.png){: width="256" height="256" .w-20 .right}
 GitHub bietet ein Feature namens GitHub Pages, das das Hosting statischer Webseiten direkt aus Ihrem GitHub-Repository ermöglicht. Und das Beste daran ist, dass es kostenlos ist!
 
 Erstellen Sie zuerst ein neues Repository auf GitHub. Der Name des Repositories sollte dem Format `username.github.io` folgen, wobei `username` Ihr GitHub-Benutzername ist.
@@ -69,3 +69,11 @@ Erleben Sie die Stärke statischer Webseiten und die Flexibilität von Jekyll un
 Jekyll und GitHub bieten eine leistungsstarke und kostenlose Möglichkeit, statische Webseiten zu erstellen und zu hosten. Mit einem minimalen Aufwand können Sie eine schnelle, sichere und zuverlässige Webseite erstellen, die Sie mit der Welt teilen können.
 
 Egal ob Sie einen Blog starten, ein Portfolio präsentieren oder eine Projektseite erstellen möchten, Jekyll und GitHub sind ausgezeichnete Tools, die Ihnen dabei helfen können. Fangen Sie heute an und entdecken Sie, wie einfach es sein kann, Ihre eigene Webseite zu erstellen und zu hosten!
+
+## meine persönlichen lieblings Themes
+
+Ich möchte euch eine kleine Auswahl an Themes vorstellen die ich entweder schon benutze oder in Zukunft benutzen möchte.
+
+[Chirpy Theme]<https://chirpy.cotes.page/>
+Das Chirpy Theme ist ein Typisches Blog Theme, welchen wir für unsere Homepage verwenden. Es ist schick und sehr Leistungsfähig. Bietet von haus aus einen Dark und White modus (die Farben lassen sich im Code natürlich ändern). Die Webseite wird auf Handy und Desktop schik dagestellt. 
+
