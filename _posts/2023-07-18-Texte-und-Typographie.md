@@ -16,18 +16,21 @@ image:
 # Gute Typographie 
 > ist mehr als nur Ästhetik. Sie ist ein entscheidender Aspekt der effektiven Kommunikation. Durch eine durchdachte Auswahl von Schriftarten, Schriftgrößen, Zeilenabständen und -längen kann eine gute Typographie dazu beitragen, Informationen klarer zu vermitteln, die Lesbarkeit zu verbessern und das allgemeine Benutzererlebnis zu verbessern.
 
-## Headings
+## Überschrift
 
-<h1 class="mt-5">H1 - heading</h1>
+<h1 class="mt-5">H1 - Überschrift</h1>
 
-<h2 data-toc-skip>H2 - heading</h2>
+<h2 data-toc-skip>H2 - Überschrift</h2>
 
-<h3 data-toc-skip>H3 - heading</h3>
+<h3 data-toc-skip>H3 - Überschrift</h3>
 
-<h4>H4 - heading</h4>
+<h4>H4 - Überschrift</h4>
 
 ## Paragraphen
 > sind das Rückgrat eines jeden Textes und spielen eine entscheidende Rolle in der Textstruktur. Sie helfen, Gedanken und Ideen klar zu organisieren und zu präsentieren. Ein gut strukturierter Paragraph enthält in der Regel einen Hauptgedanken, der durch unterstützende Sätze oder Beispiele ergänzt wird. Der erste Satz eines Paragraphen, oft als Leitsatz oder Topic-Satz bezeichnet, gibt den Ton für den restlichen Abschnitt an. Durch sorgfältige Paragraphenstruktur können Autoren ihre Punkte effektiv vermitteln und die Leser durch komplexe Themen führen. Ein guter Paragraph ist nicht nur kohärent und fokussiert, sondern auch ausreichend entwickelt, um den Hauptgedanken vollständig zu behandeln. Er verbessert die Lesbarkeit eines Textes, indem er ihm Struktur gibt und den Lesefluss erleichtert.
+
+> Jeder Paragraph wird im Inhalstverzeichniss Rechts Ausgelistet.
+{: .prompt-tip }
 
 ## Listen
 
