@@ -26,13 +26,6 @@ image:
 
 <h4>H4 - Überschrift</h4>
 
-### Markdown Überschriften
-
-### H1 - Überschrift
-### H2 - Überschrift
-### H3 - Überschrift
-### H4 - Überschrift
-
 ## Paragraphen
 
 Paragraphen sind das Rückgrat eines jeden Textes und spielen eine entscheidende Rolle in der Textstruktur. Sie helfen, Gedanken und Ideen klar zu organisieren und zu präsentieren. Ein gut strukturierter Paragraph enthält in der Regel einen Hauptgedanken, der durch unterstützende Sätze oder Beispiele ergänzt wird. Der erste Satz eines Paragraphen, oft als Leitsatz oder Topic-Satz bezeichnet, gibt den Ton für den restlichen Abschnitt an. Durch sorgfältige Paragraphenstruktur können Autoren ihre Punkte effektiv vermitteln und die Leser durch komplexe Themen führen. Ein guter Paragraph ist nicht nur kohärent und fokussiert, sondern auch ausreichend entwickelt, um den Hauptgedanken vollständig zu behandeln. Er verbessert die Lesbarkeit eines Textes, indem er ihm Struktur gibt und den Lesefluss erleichtert.
@@ -107,13 +100,17 @@ Moon
 
 ## Tabelle
 
-| Company                      | Contact          | Country |
+Tabellen bieten eine hervorragende Möglichkeit, um zusammengehörige Daten zu präsentieren:
+
+| Unternehmen                  | Kontakt        | Land    |
 |:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Alfreds Futterkiste          | Maria Anders     | Deutschland |
 | Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italien |
 
 ## Link's
+
+Verwenden Sie Links, um auf andere Webseiten oder Ressourcen zu verweisen:
 
 <https://pyt-acadamy.github.io/>
 
@@ -126,41 +123,58 @@ Moon
 
 ## Fußnote
 
+Fußnoten können verwendet werden, um zusätzliche Informationen oder Quellen zu einem bestimmten Textbereich zu liefern:
+
 Klicke auf den Haken, um die Fußnote zu finden[^footnote], und hier ist die zweite Fußnote[^fn-nth-2].
 
 ## Inline-Code
+
+Inline-Code kann verwendet werden, um Code in einem Satz oder Absatz hervorzuheben:
 
 Dies ist ein Beispiel für `Inline Code`.
 
 ## Dateipfad
 
+Sie können den Dateipfad-Tag verwenden, um den Pfad zu einer Datei oder einem Ordner hervorzuheben:
+
 Hier ist der `/pfad/zu/der/Dateiname.endung`{: .filepath}.
 
-## Code Blöcke
+### Common (allgemeiner Codeblock)
 
-### Common
+Der allgemeine Codeblock ist der einfachste Typ von Codeblock. Er hat keine Syntaxhervorhebung und zeigt keine Zeilennummern an. Sie erstellen einen allgemeinen Codeblock, indem Sie den Codeabschnitt in drei umgekehrte Anführungszeichen (\`\`\`) einschließen.
 
-```
-This is a common code snippet, without syntax highlight and line number.
-```
+Beispiel:
 
-### Spezifische Programiersprache
+\`\`\`
+Dies ist ein allgemeiner Codeblock, ohne Syntaxhervorhebung und Zeilennummern.
+\`\`\`
 
-```bash
+### Spezifische Programmiersprache
+
+Sie können auch einen Codeblock erstellen, der speziell für eine bestimmte Programmiersprache formatiert ist. Dazu schließen Sie den Codeabschnitt in drei umgekehrte Anführungszeichen ein und geben die Programmiersprache direkt nach den ersten drei Anführungszeichen an. Dies ermöglicht eine Syntaxhervorhebung und Zeilennummern, die auf die spezifische Programmiersprache abgestimmt sind.
+
+Beispiel:
+
+\`\`\`bash
 if [ $? -ne 0 ]; then
-  echo "The command was not successful.";
-  #do the needful / exit
+  echo "Der Befehl war nicht erfolgreich.";
+  #tun Sie das Notwendige / exit
 fi;
-```
+\`\`\`
 
 ### Spezifischer Dateiname
 
-```sass
+Einige Codeblöcke können auch einen spezifischen Dateinamen enthalten. Dies ist nützlich, wenn Sie möchten, dass der Leser weiß, wo der Code platziert werden sollte oder wo er gefunden werden kann. Sie erstellen diesen Codeblock, indem Sie den Codeabschnitt in drei umgekehrte Anführungszeichen einschließen, die Programmiersprache nach den ersten drei Anführungszeichen angeben und den Dateinamen in einer neuen Zeile nach dem Codeblock, umschlossen von geschwungenen Klammern und vorangestellt mit `: file=`, angeben.
+
+Beispiel:
+
+\`\`\`sass
 @import
   "colors/light-typography",
   "colors/dark-typography";
-```
+\`\`\`
 {: file='_sass/jekyll-theme-chirpy.scss'}
+
 
 ## Mathematische darstellung für Formeln
 
