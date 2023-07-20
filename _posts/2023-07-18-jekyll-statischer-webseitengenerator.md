@@ -25,7 +25,7 @@ Statische Webseiten haben viele Vorteile gegenüber dynamischen Webseiten. Sie s
 
 ## Wie erstelle ich eine Webseite mit Jekyll?
 
-![Desktop View](/assets/img/Jekyll-logo.png){: width="256" height="256" .w-20 .right}
+![Desktop View](/assets/img/Jekyll-logo.png){: width="256" height="256" .w-20 .left}
 Die Erstellung einer Webseite mit Jekyll ist ein relativ einfacher Prozess. Zunächst benötigen Sie Ruby auf Ihrem Computer installiert, da Jekyll in Ruby geschrieben ist. Nach der Installation von Ruby können Sie Jekyll mit dem Befehl `gem install jekyll` installieren.
 
 Erstellen Sie dann ein neues Jekyll-Projekt mit dem Befehl `jekyll new my-awesome-site`. Jekyll wird ein neues Verzeichnis mit dem Namen `my-awesome-site` erstellen, das alle Dateien enthält, die Sie für Ihre Webseite benötigen.
