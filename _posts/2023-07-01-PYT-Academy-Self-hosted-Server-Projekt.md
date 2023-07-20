@@ -1,7 +1,7 @@
 ---
 title: PYT-Academy Self hosted Server Projekt
 date: 2023-07-18 12:00:00 +0100
-categories: [Server, Projekt]
+categories: [Projekte, Server]
 tags: [open-source, selfhoted, server]
 author: david
 ---
