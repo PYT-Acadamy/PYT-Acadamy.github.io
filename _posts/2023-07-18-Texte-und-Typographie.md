@@ -110,7 +110,8 @@ Moon
 - [PYT-Acadamy](https://pyt-acadamy.github.io/)
 
 - [PYT-Acadamy](https://pyt-acadamy.github.io/){:target="_blank"}
-:beispiel für Link Integration die einen neuen Tab im Browser öffnet
+
+> [PYT-Acadamy](https://pyt-acadamy.github.io/){:target="_blank"}
 {: .prompt-tip }
 
 ## Fußnote
