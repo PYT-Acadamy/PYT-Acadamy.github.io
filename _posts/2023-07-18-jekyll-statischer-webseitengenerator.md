@@ -77,3 +77,5 @@ Ich möchte euch eine kleine Auswahl an Themes vorstellen die ich entweder schon
 [Chirpy Theme](<https://chirpy.cotes.page/>){:target="_blank"}
 Das Chirpy Theme ist ein Typisches Blog Theme, welchen wir für unsere Homepage verwenden. Es ist schick und sehr Leistungsfähig. Bietet von haus aus einen Dark und White modus (die Farben lassen sich im Code natürlich ändern). Die Webseite wird auf Handy und Desktop schik dagestellt. 
 
+
+[Minimal Mistakes](<https://mmistakes.github.io/so-simple-theme/>){:target="_blank"}
