@@ -120,7 +120,8 @@ Das Chirpy Theme ist ein Typisches Blog Theme, welchen wir für unsere Homepage 
 
 [Jasper 2](<https://jekyllt.github.io/jasper2/>){:target="_blank"}
 
-[yat](<https://jeffreytse.github.io/jekyll-theme-yat/>){:target="_blank"} - [x] Mehrsprachig
+[yat](<https://jeffreytse.github.io/jekyll-theme-yat/>){:target="_blank"} 
+: Mehrsprachig
 
 [Mundana](<https://wowthemesnet.github.io/mundana-theme-jekyll/>){:target="_blank"}
 
