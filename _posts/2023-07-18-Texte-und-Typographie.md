@@ -78,16 +78,16 @@ Moon
 
 ## Prompts
 
-> An example showing the `tip` type prompt.
+> Ein Beispiel für den `tip` Prompt.
 {: .prompt-tip }
 
-> An example showing the `info` type prompt.
+> Ein Beispiel für einen `info` Prompt.
 {: .prompt-info }
 
-> An example showing the `warning` type prompt.
+> Ein Beispiel für den `warning` Prompt.
 {: .prompt-warning }
 
-> An example showing the `danger` type prompt.
+> Ein Beispiel für einen `danger` Prompt.
 {: .prompt-danger }
 
 ## Tabelle
@@ -101,6 +101,12 @@ Moon
 ## Link's
 
 <https://pyt-acadamy.github.io/>
+
+- [PYT-Acadamy](https://pyt-acadamy.github.io/)
+
+- [PYT-Acadamy](https://pyt-acadamy.github.io/){:target="_blank"}
+:beispiel für Link Integration die einen neuen Tab im Browser öffnet
+{: .prompt-tip }
 
 ## Fußnote
 
