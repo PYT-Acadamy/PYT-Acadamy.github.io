@@ -28,18 +28,22 @@ image:
 ## Paragraphen
 : sind das Rückgrat eines jeden Textes und spielen eine entscheidende Rolle in der Textstruktur. Sie helfen, Gedanken und Ideen klar zu organisieren und zu präsentieren. Ein gut strukturierter Paragraph enthält in der Regel einen Hauptgedanken, der durch unterstützende Sätze oder Beispiele ergänzt wird. Der erste Satz eines Paragraphen, oft als Leitsatz oder Topic-Satz bezeichnet, gibt den Ton für den restlichen Abschnitt an. Durch sorgfältige Paragraphenstruktur können Autoren ihre Punkte effektiv vermitteln und die Leser durch komplexe Themen führen. Ein guter Paragraph ist nicht nur kohärent und fokussiert, sondern auch ausreichend entwickelt, um den Hauptgedanken vollständig zu behandeln. Er verbessert die Lesbarkeit eines Textes, indem er ihm Struktur gibt und den Lesefluss erleichtert.
 ## Listen
+
 : Listen spielen eine wichtige Rolle in der schriftlichen Kommunikation, indem sie Informationen klar, konsistent und leicht verständlich präsentieren. Sie sind besonders nützlich, wenn mehrere Punkte, Merkmale oder Schritte präsentiert werden müssen. Es gibt zwei Haupttypen von Listen: nummerierte Listen und Aufzählungslisten.
 ### Ordered list
+
 : Nummerierte Listen werden verwendet, wenn die Reihenfolge der Punkte wichtig ist, wie bei Schritt-für-Schritt-Anleitungen oder Ranglisten. Sie helfen dem Leser, den Verlauf oder die Priorität der Punkte zu verstehen.
 1. Erstens
 2. Zweitens
 3. Drittens
 ### Verschachtelte Liste
+
 : sind eine effektive Methode, um strukturierte oder hierarchische Informationen darzustellen. In einer verschachtelten Liste repräsentiert jede zusätzliche Verschachtelungsebene eine Unterkategorie oder ein Detail der übergeordneten Ebene. Diese Art der Darstellung ist besonders nützlich für Inhaltsverzeichnisse, Outlines oder jede andere Situation, in der Informationen klar und logisch strukturiert werden müssen.
 - Hauptpunkte
   + Unterpunkte
     * Detailpunkte
 ### ToDo listen
+
 : dienen als visuelle Erinnerung an das, was noch zu erledigen ist, und geben uns ein Gefühl der Zufriedenheit, wenn wir Aufgaben abhaken können. Sie helfen uns, den Überblick zu behalten und die Prokrastination zu reduzieren, indem sie uns auf unsere Ziele und Verpflichtungen fokussieren.
 
 - [ ] Aufgabe 1
@@ -47,13 +51,15 @@ image:
 - [ ] Aufgabe 3
 
 ### Verschachtelte ToDo Listen
+
 : Verschachtelte ToDo-Listen ermöglichen es uns, unsere Aufgaben in überschaubare Teilaufgaben zu unterteilen und so eine klarere Struktur und Priorisierung zu erreichen. Sie visualisieren den Fortschritt auf mehreren Ebenen und erleichtern die Navigation durch komplexe Projekte oder mehrstufige Aufgaben. Die Fähigkeit, Teilaufgaben abzuhaken, während man auf ein größeres Ziel hinarbeitet, kann zusätzliche Befriedigung bieten und die Motivation weiter steigern.
 
 - [ ] Hauptaufgabe
   + [x] Unteraufgabe 1
-  + [x] Unteraufgabe 2
-    * [ ] Detailaufgabe
-  + [ ] Unteraufgabe 3
+  + [ ] Unteraufgabe 2
+    * [ ] Detailaufgabe 1
+    * [x] Detailaufgabe 2
+  + [x] Unteraufgabe 3
 
 ### Beschreibende Listendarstellung
 
