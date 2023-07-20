@@ -79,3 +79,37 @@ Das Chirpy Theme ist ein Typisches Blog Theme, welchen wir für unsere Homepage 
 
 
 [Minimal Mistakes](<https://mmistakes.github.io/so-simple-theme/>){:target="_blank"}
+
+[TeXt](<https://kitian616.github.io/jekyll-TeXt-theme/>){:target="_blank"}
+
+[Moon](<https://taylantatli.github.io/Moon/>){:target="_blank"}
+
+[Freelancer](<https://jeromelachaud.com/freelancer-theme/>){:target="_blank"}
+
+[al-folio](<https://github.com/alshedivat/al-folio>){:target="_blank"}
+
+[Just the Docs](<https://just-the-docs.com/>){:target="_blank"}
+
+[Beautiful](<https://beautifuljekyll.com/>){:target="_blank"}
+
+[Minima](<https://jekyll.github.io/minima/>){:target="_blank"}
+
+[Online-CV](<https://online-cv.webjeda.com/>){:target="_blank"}
+
+[Hydejack](<https://hydejack.com/>){:target="_blank"}
+
+[Medium](<https://wowthemesnet.github.io/mediumish-theme-jekyll/>){:target="_blank"}
+
+[Jalpc](<https://jarrekk.github.io/Jalpc/>){:target="_blank"}
+
+[Forty](<https://andrewbanchich.github.io/forty-jekyll-theme/>){:target="_blank"}
+
+[Tale](<https://chesterhow.github.io/tale/>){:target="_blank"}
+
+[portfolYOU](<https://youssefraafatnasry.github.io/portfolYOU/>){:target="_blank"}
+
+[Feeling Responsive](<https://phlow.github.io/feeling-responsive/>){:target="_blank"}
+
+[no style, please!](<https://riggraz.dev/no-style-please/>){:target="_blank"}
+
+[Hacker](<https://pages-themes.github.io/hacker/>){:target="_blank"}
