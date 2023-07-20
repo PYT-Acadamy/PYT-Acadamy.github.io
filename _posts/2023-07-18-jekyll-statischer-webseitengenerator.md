@@ -45,7 +45,7 @@ Klonen Sie das Repository auf Ihren lokalen Computer und verschieben Sie die Dat
 
 Innerhalb von ein paar Minuten sollte Ihre Webseite unter der URL `https://username.github.io` verfügbar sein.
 
-## Die Stärke Statischer Webseiten
+## Die Stärken Statischer Webseiten
 
 Statische Webseiten, insbesondere solche, die mit Jekyll erstellt wurden, sind unglaublich leistungsfähig. Sie bieten eine schnelle Ladezeit, hohe Sicherheit und sind einfacher zu skalieren als dynamische Webseiten. Darüber hinaus bieten sie durch ihre Simplizität und das Fehlen von Server-seitigem Rendering eine hervorragende Leistung, selbst unter hoher Last.
 
