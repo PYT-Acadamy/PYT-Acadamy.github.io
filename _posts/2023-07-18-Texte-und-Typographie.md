@@ -15,6 +15,7 @@ image:
 
 # Gute Typographie 
 > ist mehr als nur Ästhetik. Sie ist ein entscheidender Aspekt der effektiven Kommunikation. Durch eine durchdachte Auswahl von Schriftarten, Schriftgrößen, Zeilenabständen und -längen kann eine gute Typographie dazu beitragen, Informationen klarer zu vermitteln, die Lesbarkeit zu verbessern und das allgemeine Benutzererlebnis zu verbessern.
+
 ## Headings
 
 <h1 class="mt-5">H1 - heading</h1>
@@ -27,9 +28,11 @@ image:
 
 ## Paragraphen
 > sind das Rückgrat eines jeden Textes und spielen eine entscheidende Rolle in der Textstruktur. Sie helfen, Gedanken und Ideen klar zu organisieren und zu präsentieren. Ein gut strukturierter Paragraph enthält in der Regel einen Hauptgedanken, der durch unterstützende Sätze oder Beispiele ergänzt wird. Der erste Satz eines Paragraphen, oft als Leitsatz oder Topic-Satz bezeichnet, gibt den Ton für den restlichen Abschnitt an. Durch sorgfältige Paragraphenstruktur können Autoren ihre Punkte effektiv vermitteln und die Leser durch komplexe Themen führen. Ein guter Paragraph ist nicht nur kohärent und fokussiert, sondern auch ausreichend entwickelt, um den Hauptgedanken vollständig zu behandeln. Er verbessert die Lesbarkeit eines Textes, indem er ihm Struktur gibt und den Lesefluss erleichtert.
+
 ## Listen
 
 > Listen spielen eine wichtige Rolle in der schriftlichen Kommunikation, indem sie Informationen klar, konsistent und leicht verständlich präsentieren. Sie sind besonders nützlich, wenn mehrere Punkte, Merkmale oder Schritte präsentiert werden müssen. Es gibt zwei Haupttypen von Listen: nummerierte Listen und Aufzählungslisten.
+
 ### Geordnete liste
 
 >Nummerierte Listen werden verwendet, wenn die Reihenfolge der Punkte wichtig ist, wie bei Schritt-für-Schritt-Anleitungen oder Ranglisten. Sie helfen dem Leser, den Verlauf oder die Priorität der Punkte zu verstehen.
