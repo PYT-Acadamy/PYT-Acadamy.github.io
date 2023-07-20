@@ -17,7 +17,6 @@ Willkommen zu diesem Blogbeitrag, in dem wir uns mit der Erstellung und dem Host
 
 <https://jekyllrb.com/>
 
-![Desktop View](/assets/img/Jekyll-logo.png){: width="256" height="256" .w-20 .right}
 Jekyll ist ein einfacher, blogorientierter, statischer Seitengenerator. Er nimmt eine Vorlage, die Sie erstellt haben, und füllt sie mit Inhalt aus Ihren Markdown-Dateien, um eine vollständige, statische Webseite zu erstellen. Jekyll ist auch der Motor hinter GitHub Pages, was bedeutet, dass Sie Ihre Jekyll-Webseite kostenlos auf GitHub hosten können.
 
 ## Warum statische Webseiten?
@@ -26,6 +25,7 @@ Statische Webseiten haben viele Vorteile gegenüber dynamischen Webseiten. Sie s
 
 ## Wie erstelle ich eine Webseite mit Jekyll?
 
+![Desktop View](/assets/img/Jekyll-logo.png){: width="256" height="256" .w-20 .right}
 Die Erstellung einer Webseite mit Jekyll ist ein relativ einfacher Prozess. Zunächst benötigen Sie Ruby auf Ihrem Computer installiert, da Jekyll in Ruby geschrieben ist. Nach der Installation von Ruby können Sie Jekyll mit dem Befehl `gem install jekyll` installieren.
 
 Erstellen Sie dann ein neues Jekyll-Projekt mit dem Befehl `jekyll new my-awesome-site`. Jekyll wird ein neues Verzeichnis mit dem Namen `my-awesome-site` erstellen, das alle Dateien enthält, die Sie für Ihre Webseite benötigen.
