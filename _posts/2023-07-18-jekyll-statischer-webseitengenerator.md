@@ -62,7 +62,7 @@ Hier sind einige Ressourcen, wo Sie Jekyll Themes finden können:
 
 Charts in Jason
 
-- [PYT-Acadamy](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html){:target="_blank"}
+- [Chartsjs](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html){:target="_blank"}
 
 
 Erleben Sie die Stärke statischer Webseiten und die Flexibilität von Jekyll und erstellen Sie Ihre perfekte Webseite. Wenn Sie Unterstützung benötigen oder Fragen haben, zögern Sie nicht, uns zu kontaktieren. Wir sind hier, um Ihnen zu helfen und Sie auf Ihrem Weg zur Erstellung Ihrer idealen Webseite zu begleiten.
