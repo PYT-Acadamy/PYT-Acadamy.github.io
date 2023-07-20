@@ -7,8 +7,6 @@ tags: [Autobiografie]
 author: david
 image:
   path: /assets/img/david_autobiogafie_profilbild.png
-  lqip:
-  alt: Profilbild
 ---
 
 # Autobiografie
