@@ -6,7 +6,7 @@ categories: [Autobiografie]
 tags: [Autobiografie]
 author: david
 image:
-  path: /side/assets/img/david_autobiogafie_profilbild.png
+  path: /assets/img/david_autobiogafie_profilbild.png
   lqip:
   alt: Profilbild
 ---
