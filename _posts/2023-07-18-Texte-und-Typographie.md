@@ -134,7 +134,7 @@ Hier ist der `/pfad/zu/der/Dateiname.endung`{: .filepath}.
 This is a common code snippet, without syntax highlight and line number.
 ```
 
-### Specific Language
+### Spezifische Programiersprache
 
 ```bash
 if [ $? -ne 0 ]; then
@@ -143,7 +143,7 @@ if [ $? -ne 0 ]; then
 fi;
 ```
 
-### Specific filename
+### Spezifischer Dateiname
 
 ```sass
 @import
@@ -152,7 +152,7 @@ fi;
 ```
 {: file='_sass/jekyll-theme-chirpy.scss'}
 
-## Mathematics
+## Mathematische darstellung für Formeln
 
 The mathematics powered by [**MathJax**](https://www.mathjax.org/):
 
@@ -188,12 +188,12 @@ _Full screen width and center alignment_
 ![Desktop View](/assets/img/mockup.png){: width="972" height="589" .w-50 .left}
 Das links angeordnete Bild bietet eine anschauliche Darstellung des diskutierten Themas. Es veranschaulicht die beschriebenen Konzepte und dient als visueller Ankerpunkt, um die im Text präsentierten Ideen besser zu veranschaulichen. Das Bild ist elegant und subtil platziert, um den Textfluss nicht zu stören und dennoch auf den ersten Blick ins Auge zu fallen. Es hebt wichtige Punkte hervor und bietet gleichzeitig einen ästhetischen Mehrwert für die Seite. Zusammen mit dem Fließtext bietet das Bild eine visuell ansprechende und informativ aufbereitete Seite, die dem Leser hilft, das Thema besser zu verstehen und sich mit den Inhalten zu beschäftigen.
 
-### Float to right
+### rechts schwebend
 
 ![Desktop View](/assets/img/mockup.png){: width="972" height="589" .w-50 .right}
 Auf der rechten Seite des Textes finden Sie ein zusätzliches Bild, das weitere wichtige Aspekte des diskutierten Themas illustriert. Es bietet eine visuelle Unterstützung, um die im Text erläuterten Punkte zu veranschaulichen und zu vertiefen. Sorgfältig rechts platziert, dient es als visuelle Ergänzung, die den Textfluss nicht unterbricht, aber dennoch die Aufmerksamkeit des Lesers auf sich zieht. Durch Hervorheben zentraler Konzepte trägt das Bild zu einem tieferen Verständnis des Themas bei und liefert gleichzeitig einen ästhetischen Mehrwert für die Seite. In Kombination mit dem links platzierten Bild und dem begleitenden Text schafft dieses Bild eine harmonische und ausgewogene visuelle Präsentation. Dies erleichtert dem Leser die Aufnahme und Verarbeitung der Informationen, indem es eine visuell ansprechende und inhaltsreiche Seite bietet, die das Interesse am Thema fördert und hält.
 
-### Dark/Light mode & Shadow
+### Dunkel/Hell modus & Schatten
 
 Das Bild unten schaltet den Dunkel-/Hellmodus je nach Designpräferenz um. Beachten Sie, dass es gerundeten Schatten enthält.
 
