@@ -113,3 +113,24 @@ Das Chirpy Theme ist ein Typisches Blog Theme, welchen wir für unsere Homepage 
 [no style, please!](<https://riggraz.dev/no-style-please/>){:target="_blank"}
 
 [Hacker](<https://pages-themes.github.io/hacker/>){:target="_blank"}
+
+[Type on Strap](<https://sylhare.github.io/Type-on-Strap/>){:target="_blank"}
+
+[Photography](<https://photography.rampatra.com/>){:target="_blank"}
+
+[Jasper 2](<https://jekyllt.github.io/jasper2/>){:target="_blank"}
+
+[yat](<https://jeffreytse.github.io/jekyll-theme-yat/>){:target="_blank"}
+Mehrsprachig
+
+[Mundana](<https://wowthemesnet.github.io/mundana-theme-jekyll/>){:target="_blank"}
+
+[Long Haul](<https://long-haul.netlify.app/>){:target="_blank"}
+
+[Devlopr](<https://devlopr.netlify.app/#/>){:target="_blank"}
+
+[Serif Netlify](<https://jekyll-serif.netlify.app/>){:target="_blank"}
+
+[Console Hacker](<https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/>){:target="_blank"}
+
+[Thinkspace](<https://heiswayi.github.io/thinkspace/>){:target="_blank"}
