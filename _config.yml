@@ -18,9 +18,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: PYT-Acadamy # the main title
+title: PYT-Academy # the main title
 
-tagline: die Webseite zum Discord-Server # it will display as the sub-title
+tagline: ...die Comunity von Technikbegeisterten in Paraguay. Wir teilen unser Wissen in Bereichen wie Informatik, Webentwicklung und DIY-Projekte. Entdecken Sie Blogbeiträge, Projektvorstellungen und mehr.
 
 description: >- # used by seo meta and the atom feed
   webseite, blog zum Discort Server PYT-Acadamy

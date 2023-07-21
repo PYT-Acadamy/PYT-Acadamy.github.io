@@ -4,7 +4,7 @@ author: sergius
 date: 2023-07-17 11:33:00 +0800
 last_modified_at: 2023-07-20 11:33:00 +0800
 categories: [Projekte, Homepage]
-tags: [typographie]
+tags: [Texte, Typographie, Kommunikation, Schriftarten, Zeilenabstände]
 math: true
 mermaid: true
 image:
