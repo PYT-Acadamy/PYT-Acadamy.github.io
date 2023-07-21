@@ -1,6 +1,7 @@
 ---
 title: DIY Power-Wall Projekt
 date: 2023-06-16 12:00:00 +0100
+last_modified_at: 2023-06-16 12:00:00 +0100
 categories: [Projekte, DIY]
 tags: [diy, power-wall, lipo, gemeinschaftsprojekt]
 author: sergius
