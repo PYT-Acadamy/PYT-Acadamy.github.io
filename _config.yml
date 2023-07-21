@@ -31,8 +31,8 @@ url: "https://pyt-acadamy.github.io"
 github:
   username: PYT-Acadamy # change to your github username
 
-Telegram:
-  username: @IT_Systemhaus # change to your twitter username
+twitter:
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -46,7 +46,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://t.me/IT_Systemhaus
+    - https://t.me/@IT_Systemhaus
 
 google_site_verification: # fill in to your verification string
 
