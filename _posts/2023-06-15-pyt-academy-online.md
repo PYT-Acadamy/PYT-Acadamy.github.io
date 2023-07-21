@@ -1,6 +1,7 @@
 ---
 title: PYT-Academy ist jetzt online!
 date: 2023-06-15 12:00:00 +0100
+last_modified_at: 2023-06-15 12:00:00 +0100
 categories: [Community, News]
 tags: [pyt-academy, launch, online]
 author: sergius
