@@ -15,6 +15,7 @@ image:
 Es war ein ungewöhnlicher Tag, an dem ich beschloss, das Logo der PYT-Academy neu zu gestalten. Ich erinnere mich, wie ich stundenlang vor meinem Computer saß, meinen Kaffee trank und darüber nachdachte, wie das neue Logo aussehen sollte. Ich wollte etwas, das unsere Identität als führende Online-Akademie im Bereich IT und Technologie darstellt.
 
 Ich begann mit dem ersten Versuch: Ein Logo, das eine IT-Universität darstellt. Ich experimentierte mit fünf Versionen, aber irgendwie konnten sie nicht das ausdrücken, was die PYT-Academy ausmacht. Es fehlte das Gefühl der Gemeinschaft und des stetigen Wachstums, das wir hier fördern.
+
 ![Desktop View](/assets/pyt/PYT-Logoentwurf-1.png){: width="600" height="600" .w-50 .left}
 ```
 Logo of a IT University
@@ -22,6 +23,7 @@ Logo of a IT University
 
 
 Also ging ich zurück zur Zeichenfläche und überdachte den ganzen Ansatz. Die PYT-Academy ist mehr als nur eine IT-Universität. Sie ist eine lebendige Online-Community, die ständiges Wachstum und Zusammenarbeit in den Bereichen IT, Technologie, KI und Softwareentwicklung ermöglicht. Mit diesem Gedanken im Hinterkopf, machte ich mich wieder an die Arbeit.
+
 ![Desktop View](/assets/pyt/PYT-Logoentwurf-2.png){: width="600" height="600" .w-50 .left}
 
 ```
@@ -29,6 +31,7 @@ The PYT-Academy is a vibrant online community that fosters growth in IT, technol
 ```
 
 Ich gestaltete das runde Logo der PYT-Academy, das diese innovative und unterstützende Gemeinschaft darstellen sollte. Die Idee war, eine inklusive Online-Lernplattform zu symbolisieren, die auf IT, Technologie, KI und Softwareentwicklung ausgerichtet ist und Wachstum, Netzwerken und Zusammenarbeit in einer unterstützenden Gemeinschaft fördert.
+
 ![Desktop View](/assets/pyt/PYT-Logoentwurf-3.png){: width="600" height="600" .w-50 .left}
 
 ```
@@ -36,6 +39,7 @@ The Round Logo of PYT-Academy is an inclusive, innovative online learning platfo
 ```
 
 Ich wählte das erste Design als Ausgangspunkt und schrieb den passenden Prompt dazu. Es war ein bedeutender Moment, denn es war der erste Schritt hin zu dem Logo, das ich mir vorgestellt hatte.
+
 ![Desktop View](/assets/pyt/PYT-Logoentwurf-4.png){: width="600" height="600" .w-50 .left}
 
 ```
@@ -43,6 +47,7 @@ A Circle of Learning PYT-Academy is an inclusive, innovative online learning pla
 ```
 
 Ich war aber noch nicht zufrieden und verwarf alle bisherigen Vorschläge. Ich ließ vier neue Designs generieren, inspiriert durch die gleiche Idee: Ein Kreis des Lernens, der alle Aspekte der PYT-Academy umfasst. Doch trotz der neuen Möglichkeiten war es immer noch nicht das perfekte Logo, nach dem ich suchte.
+
 ![Desktop View](/assets/pyt/PYT-Logoentwurf-5.png){: width="600" height="600" .w-50 .left}
 
 ```
