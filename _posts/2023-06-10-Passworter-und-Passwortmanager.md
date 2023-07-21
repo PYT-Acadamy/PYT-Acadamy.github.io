@@ -36,4 +36,6 @@ Bitwarden bietet eine benutzerfreundliche Oberfläche und ermöglicht uns, alle 
 
 ## Fazit
 In der heutigen Zeit, in der unsere Online-Identität so wichtig wie nie zuvor ist, ist der Einsatz eines Passwortmanagers unerlässlich. Er bietet uns nicht nur Sicherheit und Komfort, sondern auch den Schutz unserer sensiblen Daten vor unbefugtem Zugriff. Die Empfehlung eines vertrauenswürdigen Open-Source-Passwortmanagers wie Bitwarden erleichtert die Entscheidung, diesen lebensrettenden digitalen Safe zu nutzen. Lasst uns die Kontrolle über unsere Passwörter zurückgewinnen und uns vor den Gefahren des Internets schützen!<br>
-[Hier](<https://www.youtube.com/watch?v=YwbE2iLmAT0>) finden Sie ein informatives Video von Morpheus, in dem er das Thema Passwortsicherheit anspricht
+
+## Video
+{% include embed/youtube.html id='YwbE2iLmAT0' %}
