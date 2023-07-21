@@ -80,8 +80,14 @@ A Circle of PYT-Academy is an innovative online learning platform focused on IT,
 
 Ich muss gestehen, dieser Prozess war intensiver und herausfordernder als ich anfangs dachte. Aber die Reise war es wert. Jeder Schritt, jeder Fehlschlag und jede neue Richtung führte zu diesem einen Moment. Das fertige Logo ist mehr als nur ein Bild – es ist das Symbol der Gemeinschaft, des Lernens und der Innovation, die wir in der PYT-Academy pflegen.
 
+Zudem möchte ich an dieser Stelle betonen, dass jeder diese Prompts gerne verwenden kann, um ähnliche Ergebnisse zu erzielen oder um zu sehen, wie sich die KI weiterentwickelt hat. Ich freue mich darauf, in der Zukunft erneut auf diese Prompts zurückzugreifen und zu sehen, welche Fortschritte Midjourney und andere KI-Tools gemacht haben.
+
 ![Desktop View](/assets/img/avatar.png){: width="900" height="900" }
 
 ## Fazit
 
-Und ja, das ist die Geschichte, wie das Logo der PYT-Academy entstand. Eine Geschichte von Kreativität, Technologie und Ausdauer. Eine Geschichte, die ich dank der Hilfe von ChatGPT erzählen konnte.
+Das ist also die Geschichte, wie das Logo der PYT-Academy entstanden ist - eine Geschichte voller Kreativität, Technologie und Ausdauer. Durch die Kombination von menschlicher Intuition und KI-basierter Generierung haben wir ein Symbol erschaffen, das unsere Gemeinschaft und die Werte, die wir in der PYT-Academy pflegen, treffend repräsentiert.
+
+Diese Erfahrung war ein faszinierendes Beispiel dafür, wie KI und menschliche Kreativität sich gegenseitig ergänzen und auf ein gemeinsames Ziel hinarbeiten können. Die Prompts, die während dieses Prozesses verwendet wurden, sind nicht nur eine Momentaufnahme der Technologie zu diesem Zeitpunkt, sondern auch ein Werkzeug, das anderen helfen kann, ähnliche Erfahrungen zu machen oder die Entwicklung der KI im Laufe der Zeit zu verfolgen.
+
+Wir freuen uns darauf, in der Zukunft erneut auf diese Prompts zurückzugreifen und zu sehen, welche Fortschritte KI-Werkzeuge wie Midjourney und ChatGPT gemacht haben. Und wer weiß, vielleicht wird das nächste Logo oder Design, das Sie sehen, auch das Ergebnis einer solchen KI-gesteuerten kreativen Reise sein!
