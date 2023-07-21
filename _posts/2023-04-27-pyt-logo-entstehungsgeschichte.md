@@ -16,55 +16,63 @@ Es war ein ungewöhnlicher Tag, an dem ich beschloss, das Logo der PYT-Academy n
 
 ## erster Promt
 
-![Desktop View](/assets/pyt/PYT-Logoentwurf-1.png){: width="600" height="600" .w-75 .normal}
 Ich begann mit dem ersten Versuch: Ein Logo, das eine IT-Universität darstellt. Ich experimentierte mit fünf Versionen, aber irgendwie konnten sie nicht das ausdrücken, was die PYT-Academy ausmacht. Es fehlte das Gefühl der Gemeinschaft und des stetigen Wachstums, das wir hier fördern.
 
 ```
 Logo of a IT University
 ```
+
+![Desktop View](/assets/pyt/PYT-Logoentwurf-1.png){: width="600" height="600" .w-75 .normal}
+
 ## zweiter Promt
 
-![Desktop View](/assets/pyt/PYT-Logoentwurf-2.png){: width="600" height="600" .w-75 .normal}
 Also ging ich zurück zur Zeichenfläche und überdachte den ganzen Ansatz. Die PYT-Academy ist mehr als nur eine IT-Universität. Sie ist eine lebendige Online-Community, die ständiges Wachstum und Zusammenarbeit in den Bereichen IT, Technologie, KI und Softwareentwicklung ermöglicht. Mit diesem Gedanken im Hinterkopf, machte ich mich wieder an die Arbeit.
 
 ```
 The PYT-Academy is a vibrant online community that fosters growth in IT, technology, AI, and software development. It offers a safe space for newcomers and experts alike to expand their skills, network, and collaborate on projects. Our 24/7 Discord platform provides structured chat rooms, engaging webinars, and hands-on learning experiences tailored to individual skill levels. Passionate about empowering its members, the PYT-Academy emphasizes a dynamic and supportive atmosphere where curiosity thrives, and knowledge sharing is key. The academy's worldwide reach and commitment to continuous improvement create an environment ripe for success in the ever-evolving tech landscape.
 ```
 
+![Desktop View](/assets/pyt/PYT-Logoentwurf-2.png){: width="600" height="600" .w-75 .normal}
+
 ## dritter Promt
 
-![Desktop View](/assets/pyt/PYT-Logoentwurf-3.png){: width="600" height="600" .w-75 .normal}
 Ich gestaltete das runde Logo der PYT-Academy, das diese innovative und unterstützende Gemeinschaft darstellen sollte. Die Idee war, eine inklusive Online-Lernplattform zu symbolisieren, die auf IT, Technologie, KI und Softwareentwicklung ausgerichtet ist und Wachstum, Netzwerken und Zusammenarbeit in einer unterstützenden Gemeinschaft fördert.
 
 ```
 The Round Logo of PYT-Academy is an inclusive, innovative online learning platform focused on IT, technology, AI, and software development, fostering growth, networking, and collaboration within a supportive community.
 ```
 
+![Desktop View](/assets/pyt/PYT-Logoentwurf-3.png){: width="600" height="600" .w-75 .normal}
+
 ## vierter Promt
 
-![Desktop View](/assets/pyt/PYT-Logoentwurf-4.png){: width="600" height="600" .w-75 .normal}
 Ich wählte das erste Design als Ausgangspunkt und schrieb den passenden Prompt dazu. Es war ein bedeutender Moment, denn es war der erste Schritt hin zu dem Logo, das ich mir vorgestellt hatte.
 
 ```
 A Circle of Learning PYT-Academy is an inclusive, innovative online learning platform focused on IT, technology, AI, and software development, fostering growth, networking, and collaboration within a supportive community
 ```
 
+![Desktop View](/assets/pyt/PYT-Logoentwurf-4.png){: width="600" height="600" .w-75 .normal}
+
 ## fünfter Promt
 
-![Desktop View](/assets/pyt/PYT-Logoentwurf-5.png){: width="600" height="600" .w-75 .normal}
 Ich war aber noch nicht zufrieden und verwarf alle bisherigen Vorschläge. Ich ließ vier neue Designs generieren, inspiriert durch die gleiche Idee: Ein Kreis des Lernens, der alle Aspekte der PYT-Academy umfasst. Doch trotz der neuen Möglichkeiten war es immer noch nicht das perfekte Logo, nach dem ich suchte.
 
 ```
 A Circle of Learning PYT-Academy is an inclusive, innovative online learning platform focused on IT, technology, AI, and software development, fostering growth, networking, and collaboration within a supportive community.
 ```
+
+![Desktop View](/assets/pyt/PYT-Logoentwurf-5.png){: width="600" height="600" .w-75 .normal}
+
 ## Finaler Promt und Upscale
 
-![Desktop View](/assets/pyt/PYT-Logoentwurf-6.png){: width="600" height="600" .w-75 .normal}
 Und dann, plötzlich, stand es vor meinen Augen: die erste Version war es! Es war perfekt, es repräsentierte alles, was die PYT-Academy ausmacht. Jetzt musste ich nur noch einen Upscale-Befehl geben, um die finale Version zu erstellen.
 
 ```
 A Circle of PYT-Academy is an innovative online learning platform focused on IT, technology, AI, fostering growth, networking, and collaboration within a supportive community.
 ```
+
+![Desktop View](/assets/pyt/PYT-Logoentwurf-6.png){: width="600" height="600" .w-75 .normal}
 
 ## Das PYT Logo
 
