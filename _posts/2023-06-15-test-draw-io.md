@@ -12,3 +12,7 @@ author: sergius
 ![Test Diagram](/assets/draw/Test-Diagramm.drawio.svg)
 
 na, bin gespannt
+
+
+![Auf Google Doks abgelegtes Diagramm](https://drive.google.com/file/d/1Jl9XyT5V5NIIRlccLusISgzuOhp55ScE/view?usp=drive_link)
+
