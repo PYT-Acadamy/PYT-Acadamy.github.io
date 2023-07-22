@@ -9,7 +9,7 @@ author: sergius
 
 # Hier mal die seite um Draw.io zu testen
 
-![Test Diagram](/assets/draw/Test-Diagramm.drawio.svg)
+![Test Diagram](/assets/draw/test.drawio)
 
 na, bin gespannt
 
