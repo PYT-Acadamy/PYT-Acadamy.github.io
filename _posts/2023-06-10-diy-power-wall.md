@@ -11,6 +11,8 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
+![Desktop View](/assets/img/DIY-Powerwall.png){: width="972" height="589" }
+
 Baut mit uns eine 15kWh Power-Wall aus LiPo Akkus!
 
 In der PYT-Academy-Community diskutieren wir ständig über aufregende und herausfordernde Projekte. Eines, das uns besonders fasziniert hat, ist der Bau einer 15kWh Power-Wall aus LiPo-Akkus. Dieses Projekt bietet nicht nur die Möglichkeit, persönliche Energieautonomie zu erlangen, sondern auch gemeinsam zu lernen und Erfahrungen innerhalb der Community auszutauschen.
