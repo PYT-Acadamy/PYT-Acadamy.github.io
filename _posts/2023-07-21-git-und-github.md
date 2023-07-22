@@ -2,7 +2,7 @@
 title: Git und Github
 date: 2023-07-21 17:30:00 +0800
 last_modified_at: 2023-07-21 17:30 +0800
-categories: [Git, Github, Anlaitung]
+categories: [Git, Github, Anleitung]
 tags: [git, github, anleitung]
 author: david
 image:
