@@ -5,6 +5,10 @@ last_modified_at: 2023-07-21 12:00:00 +0100
 categories: [Projekte, Power-Wall]
 tags: [DIY, Power-Wall, LiPo-Akkus, gemeinschaftsprojekt]
 author: sergius
+image:
+  path: /assets/img/DIY-Powerwall.png
+  lqip:
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 Baut mit uns eine 15kWh Power-Wall aus LiPo Akkus!
