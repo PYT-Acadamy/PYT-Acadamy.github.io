@@ -9,10 +9,8 @@ author: sergius
 
 # Hier mal die seite um Draw.io zu testen
 
-![Test Diagram](/assets/draw/test.drawio)
+![Test Diagram](/assets/draw/Test-Diagramm.drawio.svg)
 
-na, bin gespannt
+die einfachste Lösung im Moment ist es die *svg datei aus dem Repo zu laden und das neue Bearbeitete Diagramm auf GitHub hoch zu Pushen. Ich bekomme dann ein Pull Reguest, den Rest kennt Ihr.
 
-
-![Auf Google Doks abgelegtes Diagramm](https://drive.google.com/file/d/1Jl9XyT5V5NIIRlccLusISgzuOhp55ScE/view?usp=drive_link)
 
