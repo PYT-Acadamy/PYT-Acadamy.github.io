@@ -1,11 +1,21 @@
 ---
 title: PYT-Academy Self hosted Server Projekt
 date: 2023-07-18 12:00:00 +0100
-last_modified_at: 2023-07-20 16:30 +0800
+last_modified_at: 2023-07-23 16:30 +0800
 categories: [Projekte, Server]
 tags: [open-source, Self-hosted, Server, Projekt, Cloud, Verein]
-author: david
+author: david, sergius
 ---
+
+Hallo Team, 
+Lasst uns an den Aufbaudiagramm arbeiten. Hier der Chatverlauf für weiterführende Informationen
+
+> [Chatverlauf ChatGPT](https://chat.openai.com/share/5a6b8490-468f-4960-89b4-9ff8ea1c5178){:target="_blank"}
+{: .prompt-tip }
+
+Hier das Diagramm. Es fehlen noch sämtliche Verbindungen und Anschlüsse und schaut mal ob ich alle Anwendungen und Hardware erfasst habe. Auch die Jetzigen Anschlüsse müssen definiert werden. Welche Anschlüsse der Mac Mini hat teile ich weiter unten
+
+![Test Diagram](/assets/draw/PYT-Server.svg)
 
 # Gesprächpunkte
 
