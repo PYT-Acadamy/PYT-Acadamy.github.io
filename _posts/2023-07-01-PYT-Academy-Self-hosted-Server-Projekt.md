@@ -4,7 +4,7 @@ date: 2023-07-18 12:00:00 +0100
 last_modified_at: 2023-07-23 16:30 +0800
 categories: [Projekte, Server]
 tags: [open-source, Self-hosted, Server, Projekt, Cloud, Verein]
-author: david, sergius
+author: david
 ---
 
 Hallo Team, 
